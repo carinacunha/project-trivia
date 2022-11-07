@@ -6,6 +6,10 @@ This project was developed by a team of 5 people with the aim of building a ques
 Carina Cunha, Rafhael Gomes, Rafael França, Aline Valadão e Ludson.
 
 ## 🛠 Tools 
-React.js, Redux, React Router, React Testing Library, JavaScript.
+* React.js
+* Redux
+* React Router
+* React Testing Library
+* JavaScript
 
 **This project was developed during the Web Developer course at Trybe.**
