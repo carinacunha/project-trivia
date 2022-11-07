@@ -8,4 +8,4 @@ Carina Cunha, Rafhael Gomes, Rafael França, Aline Valadão e Ludson.
 ## 🛠 Tools 
 React.js, Redux, React Router, React Testing Library, JavaScript.
 
-* This project was developed during the Web Developer course at Trybe.*
+** This project was developed during the Web Developer course at Trybe.**
